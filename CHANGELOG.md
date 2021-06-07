@@ -1,1 +1,1 @@
-See https://github.com/atom/atom-watch/releases
+See https://github.com/esportsplus/atom-watch/releases
