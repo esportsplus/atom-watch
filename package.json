@@ -5,7 +5,7 @@
   "description": "Run shell command on file save",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/atom-watch",
+  "repository": "https://github.com/esportsplus/atom-watch",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
