@@ -13,7 +13,7 @@ In this package the configuration was removed and we are left with the following
 * Begin watching files on editor load
 * Execute npm script on file change
 
-## Installation
+## Install
 
 apm install atom-watch
 
