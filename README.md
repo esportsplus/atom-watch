@@ -1,7 +1,5 @@
 # Atom Watch 
 
-## Description
-
 Fork of [mvila's](https://github.com/mvila) very useful [on-save](https://github.com/mvila/on-save) utility.
 
 Our latest projects store configuration within `package.json` files and all commands are now being managed through `npm scripts`.
